@@ -1,3 +1,3 @@
 # hello-world
-github induction
+github induction/n
 a bit about myself
